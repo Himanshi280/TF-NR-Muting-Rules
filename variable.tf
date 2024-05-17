@@ -1,0 +1,3 @@
+variable "muting" {
+  type = any
+}
